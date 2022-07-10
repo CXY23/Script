@@ -2,8 +2,8 @@
 
 #Misty
 #HOST-SUFFIX, aaa.ax
-HOST-SUFFIX, us.aaa.ax 
-HOST-SUFFIX, jp.aaa.ax
+#HOST-SUFFIX, us.aaa.ax 
+#HOST-SUFFIX, jp.aaa.ax
 #PornEmby
 HOST-SUFFIX, pornemby.club
 #终点站
