@@ -1,0 +1,29 @@
+#EMBY
+
+#Misty
+HOST-SUFFIX, aaa.ax
+HOST-SUFFIX, us.aaa.ax 
+HOST-SUFFIX, jp.aaa.ax
+#PornEmby
+HOST-SUFFIX, pornemby.club
+#终点站
+HOST-SUFFIX, pub1.emby.wtf
+HOST-SUFFIX, pub2.emby.wtf
+HOST-SUFFIX, pub3.emby.wtf
+#Bai Piao Wang Emby
+HOST-SUFFIX, emby.ywang.cf
+#MisakaF
+HOST-SUFFIX, emby.misakaf.xyz
+HOST-SUFFIX, embyz.misakaf.xyz
+HOST-SUFFIX, de.misakaf.xyz
+#卷毛鼠
+HOST-SUFFIX, cf.jmsooo.com
+HOST-SUFFIX, ha.jmsooo.com
+#NakoNako
+HOST-SUFFIX, nakonako.net
+HOST-SUFFIX, nakoemby.com
+IP-CIDR, 20.205.38.244
+#POLO
+HOST-SUFFIX, cu.poloemby.xyz
+HOST-SUFFIX, fkiclqudpp.eastasia.cloudapp.azure.com
+HOST-SUFFIX, gsicjexeyu.japaneast.cloudapp.azure.com
